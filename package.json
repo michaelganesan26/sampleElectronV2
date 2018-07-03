@@ -1,0 +1,14 @@
+{
+    "name": "sampleElectronWithContentsVer2",
+    "dependencies": {
+        "electron": "^2.0.1"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "main": "main.js",
+    "version": "1.0.1",
+    "license": "MIT",
+    "description": "",
+    "author": "ganesanm"
+}
