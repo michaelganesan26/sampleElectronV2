@@ -1,7 +1,7 @@
 {
-    "name": "sampleElectronWithContentsVer2",
+    "name": "sample_electrons_ver2",
     "dependencies": {
-        "electron": "^2.0.1"
+        "electron": "^2.0.3"
     },
     "scripts": {
         "start": "electron ."
